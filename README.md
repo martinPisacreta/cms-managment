@@ -44,6 +44,7 @@ Run the `Project.HttpApi.Host` project from Visual Studio to initiate the backen
 
 - Open `angular` project
 - Open terminal in Visual Studio Code
+- Execute ```npm install```
 
 ### 2. Start Angular App
 
